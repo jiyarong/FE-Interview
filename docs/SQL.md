@@ -11,6 +11,7 @@
 
 ### 5.MySQL的引擎有哪些？
 ISAM、MyISAM、HEAP、InnoDB
+### 6.悲观锁和乐观锁
 
 参考：
 
